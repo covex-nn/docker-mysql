@@ -1,3 +1,3 @@
 covex/mysql
 ====================
-Docker MySQL image with HELTHCHECK
+Docker MySQL image with HEALTHCHECK
